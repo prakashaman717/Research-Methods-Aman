@@ -3,7 +3,8 @@
 
 **wild urchins. When food is limited, the size of the gonad** 
 
-decreases and when food is abundant the gonads are generally larger. Limited feed availability has a negative effect
+- decreases and when food is abundant the - ##gonads are generally larger.##
+ Limited feed availability has a negative effect
 on the reproductive cycle and when the food supply is
 very low (e.g. as can occur in extensive sea urchin barrens) the roe of the urchin may be too small to produce
 any reproductive cells (Figure 2). Environmental conditions such as seasonal variation in seawater temperature
