@@ -89,7 +89,7 @@ b) 100 µL of 10x dilution (100 µL undiluted + 900 µL LB media)
 14. Invert plates (agar side up) and incubate at 37 °C 
 overnight.
 
-![alt text](download.png)![alt text](<images bacteria.png>)
+![alt text](download.png)!(<images bacteria.png>)
  ##### Fig 1. Schematic representation of Bacteria as DH5alpha
 
 The following is the list of bacteria being used as the competent cells across the biological sciences :- 
